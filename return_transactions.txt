@@ -1,0 +1,4 @@
+Customer_name,return_date,Duration(in months),Kitta.no,City/District,Facing
+
+Parashar Acharya,31st June ,6,393,Hetauda,West
+Kabita Pokhrel,13th March ,5,915,Biratnagar,West

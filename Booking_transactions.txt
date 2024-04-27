@@ -1,0 +1,4 @@
+Customer_name,Booking_date,Duration(in months),Kitta.no,City/District,Facing
+Samjhana Rai,23rd June,12,871,Lalitpur,West
+Pawan Younghang,3rd Sept 2023,12,393,Hetauda,West
+Sumitha Kafle ,3rd January 2024,18,241,Lalitpur,South
